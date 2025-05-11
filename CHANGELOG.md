@@ -1,5 +1,17 @@
 # Changelog
 
+## [23.42.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.41.0...v23.42.0) (2025-05-11)
+
+
+### Features
+
+* **add:** CSP052 ([#9316](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9316)) ([0df79c2](https://github.com/Koenkk/zigbee-herdsman-converters/commit/0df79c2a28101577e8a255f8ea05fd2580ec5d49))
+
+
+### Bug Fixes
+
+* Tuya TS0726_3_gang_scene_switch: add missing action ([#9313](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9313)) ([47b4787](https://github.com/Koenkk/zigbee-herdsman-converters/commit/47b4787665ffbf2568be16707cbe320abd8d31e0))
+
 ## [23.41.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.40.1...v23.41.0) (2025-05-10)
 
 
